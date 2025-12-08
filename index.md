@@ -5,9 +5,7 @@ tags: fpga vga verilog
 categories: demo
 ---
 
-Add a short welcome message or introduction here. Aim to get the viewer interested in what follows! Guideline: 1 or 2 sentences. 
-
-I am adding a test sentence here at 13:24 on 03/12/24.
+Welcome to my SOC project where I will walk through my FPGA VGA Driver project in this blog. I will document from the initial concept and design choices all the way to implementation, testing, final results and everything I learned during this project!
 
 ## **Template VGA Design**
 ### **Project Set-Up**
