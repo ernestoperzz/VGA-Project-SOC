@@ -5,7 +5,7 @@ tags: fpga vga verilog
 categories: demo
 ---
 
-Welcome to my SOC project where I will walk through my FPGA VGA Driver project in this blog. I will document from the initial concept and design choices all the way to implementation, testing, final results and everything I learned during this project!
+Welcome to my SOC project where I will walk through my FPGA VGA Driver project. In this project, I will document from the initial concept and design choices all the way to implementation, testing, final results and everything I learned during this project!
 
 ## **Template VGA Design**
 ### **Project Set-Up**
