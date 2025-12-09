@@ -12,12 +12,13 @@ Welcome to my SOC project where I will walk through my FPGA VGA Driver project. 
 In this project, I used the VGA template given to start with and adjusted it to make my own landscape. I started by creating a new vivado project, added the files and constraint given and modifying some parameters before getting the stripes template output desired. Then, I coded on my own in order to get the landscape I was looking for and with spare time I was able to switch between two different images on a VGA monitor after synthesising, implementing and simulated the design in Vivado.
 
 <img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/VGAPrjSum.png">
-### **Template Code**
+## **Template Code**
 The template verilog files provided by Michelle define the basics in VGA design where we can generate 3 RGB signals(red, gree, blue) using VGA timers. I personally found them handy and gave me a better understanding on
 VGA design code before adapting the given one.
+
 The ColourStripes example was basically different assigned RGB values that were continuosly displayed on an horizontal pixel position. Then, the ColourCycle template switches between different RGB values where each of them was displayed as a backgound (one by one).  
 ### **Simulation**
-Explain the simulation process. Reference any important details, include a well-selected screenshot of the simulation. Guideline: 1/2 short paragraphs.
+Simulation is a technique for applying different inputs to the design at different times to check if the RTL code behaves in an intended way by running a testbench that drives a clock that it is generated on the testbench. It also allows throwing design and testbench signals into a waveform that can be graphically represented to analyze and debug the RTL design if it works. 
 ### **Synthesis**
 Describe the synthesis and implementation processes. Consider including 1/2 useful screenshot(s). Guideline: 1/2 short paragraphs.
 ### **Demonstration**
