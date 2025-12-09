@@ -22,10 +22,22 @@ Simulation is a technique for applying different inputs to the design at differe
 ### **Synthesis**
 Describe the synthesis and implementation processes. Consider including 1/2 useful screenshot(s). Guideline: 1/2 short paragraphs.
 ### **Demonstration**
-Perhaps add a picture of your demo. Guideline: 1/2 sentences.
+
+
+
+![416209b7-a9a6-4e23-9c80-35b563bd8397](https://github.com/user-attachments/assets/fe193c0f-0ae2-488a-8a10-a591e94a2263)
+
+
 
 ## **My VGA Design Edit**
 Introduce your own design idea. Consider how complex/achievabble this might be or otherwise. Reference any research you do online (use hyperlinks).
+
+![efa70bcc-660f-447d-a1d0-031b6a06237b](https://github.com/user-attachments/assets/75bc34c2-1d74-4f4f-a9b8-b5939ab986f9)
+
+![618144d1-36cd-4dc7-995a-2d424248926b](https://github.com/user-attachments/assets/0b16bd5b-5e3b-4565-b947-4a4366efedc0)
+
+![8b234de8-838a-46d0-b9ab-ee1ae2d3162c](https://github.com/user-attachments/assets/ccc94681-bc4c-4cdf-8558-265b15270062)
+
 ### **Code Adaptation**
 Briefly show how you changed the template code to display a different image. Demonstrate your understanding. Guideline: 1-2 short paragraphs.
 ### **Simulation**
@@ -34,6 +46,8 @@ Show how you simulated your own design. Are there any things to note? Demonstrat
 Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
 ### **Demonstration**
 If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
+
+https://github.com/user-attachments/assets/7262f9b6-c441-4661-b860-63886d0990d4
 
 ## **More Markdown Basics**
 This is a paragraph. Add an empty line to start a new paragraph.
