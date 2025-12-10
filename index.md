@@ -46,7 +46,7 @@ Describe the synthesis & implementation outputs for your design, are there any d
 ### **Demonstration**
 If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
 
-<img src="https://raw.githubusercontent.com/ernestoperzz/VGA-Project-SOC/main/ImagesSOC/5131f716-7778-4417-bee3-85c178deb48d.mp4">
+![Please download video demo here.](https://raw.githubusercontent.com/ernestoperzz/VGA-Project-SOC/main/FinalProjVideo.mp4)
 
 ## **More Markdown Basics**
 This is a paragraph. Add an empty line to start a new paragraph.
