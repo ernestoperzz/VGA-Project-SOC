@@ -31,11 +31,11 @@ Describe the synthesis and implementation processes. Consider including 1/2 usef
 ## **My VGA Design Edit**
 Introduce your own design idea. Consider how complex/achievabble this might be or otherwise. Reference any research you do online (use hyperlinks).
 
-![efa70bcc-660f-447d-a1d0-031b6a06237b](https://github.com/user-attachments/assets/75bc34c2-1d74-4f4f-a9b8-b5939ab986f9)
+<img src="https://raw.githubusercontent.com/ernestoperzz/VGA-Project-SOC/main/ImagesSOC/efa70bcc-660f-447d-a1d0-031b6a06237b.jpeg">
 
-![618144d1-36cd-4dc7-995a-2d424248926b](https://github.com/user-attachments/assets/0b16bd5b-5e3b-4565-b947-4a4366efedc0)
+<img src="https://raw.githubusercontent.com/ernestoperzz/VGA-Project-SOC/main/ImagesSOC/618144d1-36cd-4dc7-995a-2d424248926b.jpeg">
 
-![8b234de8-838a-46d0-b9ab-ee1ae2d3162c](https://github.com/user-attachments/assets/ccc94681-bc4c-4cdf-8558-265b15270062)
+<img src="https://raw.githubusercontent.com/ernestoperzz/VGA-Project-SOC/main/ImagesSOC/8b234de8-838a-46d0-b9ab-ee1ae2d3162c.jpeg">
 
 ### **Code Adaptation**
 Briefly show how you changed the template code to display a different image. Demonstrate your understanding. Guideline: 1-2 short paragraphs.
