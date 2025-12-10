@@ -24,8 +24,8 @@ Describe the synthesis and implementation processes. Consider including 1/2 usef
 ### **Demonstration**
 
 
+<img source = "https://github.com/ernestoperzz/VGA-Project-SOC/ImagesSOC/"416209b7-a9a6-4e23-9c80-35b563bd8397.jpeg">
 
-![416209b7-a9a6-4e23-9c80-35b563bd8397](https://github.com/user-attachments/assets/fe193c0f-0ae2-488a-8a10-a591e94a2263)
 
 
 
