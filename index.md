@@ -16,7 +16,7 @@ In this project, I used the VGA template given to start with and adjusted it to 
 The template verilog files provided by Michelle define the basics in VGA design where we can generate 3 RGB signals(red, gree, blue) using VGA timers. I personally found them handy and gave me a better understanding on
 VGA design code before adapting the given one.
 
-The ColourStripes example was basically different assigned RGB values that were continuosly displayed on an horizontal pixel position. Then, the ColourCycle template switches between different RGB values where each of them was displayed as a backgound (one by one).  
+The ColourStripes example was basically different assigned RGB values that were continuosly displayed on an horizontal pixel position. Then, the ColourCycle template switches between different RGB values where each of them was displayed as a background (one by one).  
 ### **Simulation**
 Simulation is a technique for applying different inputs to the design at different times to check if the RTL code behaves in an intended way by running a testbench that drives a clock that it is generated on the testbench. It also allows throwing design and testbench signals into a waveform that can be graphically represented to analyze and debug the RTL design if it works. 
 ### **Synthesis**
@@ -29,7 +29,7 @@ Describe the synthesis and implementation processes. Consider including 1/2 usef
 
 
 ## **My VGA Design Edit**
-Introduce your own design idea. Consider how complex/achievabble this might be or otherwise. Reference any research you do online (use hyperlinks).
+At the start my main idea was working on just a complex image where a there would be a cowboy standing in the grass full of flowers. However, I changed my 
 
 <img src="https://raw.githubusercontent.com/ernestoperzz/VGA-Project-SOC/main/ImagesSOC/efa70bcc-660f-447d-a1d0-031b6a06237b.jpeg">
 
