@@ -24,7 +24,7 @@ Describe the synthesis and implementation processes. Consider including 1/2 usef
 ### **Demonstration**
 
 
-<img src="https://raw.githubusercontent.com/ernestoperzz/VGA-Project-SOC/main/ImagesSOC/416209b7-a9a6-4e23-9c80-35b563bd8397.jpeg">
+<img src="https://raw.githubusercontent.com/ernestoperzz/VGA-Project-SOC/main/ImagesSOC/5131f716-7778-4417-bee3-85c178deb48d.mp4">
 
 
 
@@ -46,7 +46,7 @@ Describe the synthesis & implementation outputs for your design, are there any d
 ### **Demonstration**
 If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
 
-https://github.com/user-attachments/assets/7262f9b6-c441-4661-b860-63886d0990d4
+<img src="https://raw.githubusercontent.com/ernestoperzz/VGA-Project-SOC/main/ImagesSOC/5131f716-7778-4417-bee3-85c178deb48d.mp4">
 
 ## **More Markdown Basics**
 This is a paragraph. Add an empty line to start a new paragraph.
