@@ -29,7 +29,7 @@ Describe the synthesis and implementation processes. Consider including 1/2 usef
 
 
 ## **My VGA Design Edit**
-At the start my main idea was working on just a complex image where a there would be a cowboy standing in the grass full of flowers. However, I changed my 
+At the start my main idea was working on just a complex image where there would be a cowboy standing in the grass full of flowers. However, I decided to change my design idea into a landscape where we could switch into a saturated version of the landscape as it will proof my deeper understanding into my FPGA VGA Driver Project. I personally found more challenging to be able to switch between different images than making a complex image as it will just require a longer code to make a harder image and I would learn how to initialize and configure any type of switches for future projects.  
 
 <img src="https://raw.githubusercontent.com/ernestoperzz/VGA-Project-SOC/main/ImagesSOC/efa70bcc-660f-447d-a1d0-031b6a06237b.jpeg">
 
@@ -44,24 +44,11 @@ Show how you simulated your own design. Are there any things to note? Demonstrat
 ### **Synthesis**
 Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
 ### **Demonstration**
-If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
-<img source = "https://raw.githubusercontent.com/ernestoperzz/VGA-Project-SOC/main/FinalProjVideo.gif">
-![Please download video demo here.](https://raw.githubusercontent.com/ernestoperzz/VGA-Project-SOC/main/SmallOptimizedVideo.mp4)
+Here is the final desing of my SOC project. I did not manage to generate a saturatedThis is an optimized version of the video demonstration turned into a gift as in Github you are only allowed to upload files under 25mb. Below there is a link to download the original version of the mp4 file.
 
-## **More Markdown Basics**
-This is a paragraph. Add an empty line to start a new paragraph.
+<img src = "https://raw.githubusercontent.com/ernestoperzz/VGA-Project-SOC/main/SmallOptimizedVideo.gif">
 
-Font can be emphasised as *Italic* or **Bold**.
+![Please download video demo here.](https://raw.githubusercontent.com/ernestoperzz/VGA-Project-SOC/main/FinalProjVideo.mp4)
 
-Code can be highlighted by using `backticks`.
+## **References**
 
-Hyperlinks look like this: [GitHub Help](https://help.github.com/).
-
-A bullet list can be rendered as follows:
-- vectors
-- algorithms
-- iterators
-
-Images can be added by uploading them to the repository in a /docs/assets/images folder, and then rendering using HTML via githubusercontent.com as shown in the example below.
-
-<img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/VGAPrjSrcs.png">
