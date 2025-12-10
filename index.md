@@ -45,8 +45,8 @@ Show how you simulated your own design. Are there any things to note? Demonstrat
 Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
 ### **Demonstration**
 If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
-
-![Please download video demo here.](https://raw.githubusercontent.com/ernestoperzz/VGA-Project-SOC/main/FinalProjVideo.mp4)
+<img source = "https://raw.githubusercontent.com/ernestoperzz/VGA-Project-SOC/main/FinalProjVideo.gif">
+![Please download video demo here.](https://raw.githubusercontent.com/ernestoperzz/VGA-Project-SOC/main/SmallOptimizedVideo.mp4)
 
 ## **More Markdown Basics**
 This is a paragraph. Add an empty line to start a new paragraph.
