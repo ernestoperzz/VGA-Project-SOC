@@ -20,7 +20,7 @@ The ColourStripes example was basically different assigned RGB values that were 
 ### **Simulation**
 Simulation is a technique for applying different inputs to the design at different times to check if the RTL code behaves in an intended way by running a testbench that drives a clock that it is generated on the testbench. It also allows throwing design and testbench signals into a waveform that can be graphically represented to analyze and debug the RTL design if it works. 
 ### **Synthesis**
-Describe the synthesis and implementation processes. Consider including 1/2 useful screenshot(s). Guideline: 1/2 short paragraphs.
+The synthesis proccess beasically translates the RTL code into a generic netlist representing the designs logic. Then, the implementation process takes the synthesized netlist and constraints and makes a bitstream file that programs the FPGA.
 ### **Demonstration**
 
 
